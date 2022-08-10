@@ -1,0 +1,230 @@
+1536985373202	geckodriver	INFO	geckodriver 0.21.0
+1536985373222	geckodriver	INFO	Listening on 127.0.0.1:63999
+1536985376224	mozrunner::runner	INFO	Running command: "E:\\Tools\\网络工具\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yeeku\\AppData\\Local\\Temp\\rust_mozprofile.uB0sHBoV1joJ"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1536985381512	Marionette	INFO	Listening on port 64015
+1536985381748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536985381789	Marionette	DEBUG	[6442450945] Frame script loaded
+1536985381791	Marionette	DEBUG	[6442450945] Frame script registered
+1536985384827	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536985387296	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536985388417	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.weibo.com/login/
+1536985389457	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1536985409257	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.weibo.com/login/
+1536985409727	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 10440, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 13128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536985452908	Marionette	INFO	Stopped listening on port 64015
+[GPU 9796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536985455404	geckodriver	INFO	geckodriver 0.21.0
+1536985455412	geckodriver	INFO	Listening on 127.0.0.1:64245
+1536985458414	mozrunner::runner	INFO	Running command: "E:\\Tools\\网络工具\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yeeku\\AppData\\Local\\Temp\\rust_mozprofile.usxoMAqxsXwk"
+1536985462161	Marionette	INFO	Listening on port 64257
+1536985462228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536985462260	Marionette	DEBUG	[6442450945] Frame script loaded
+1536985462299	Marionette	DEBUG	[6442450945] Frame script registered
+1536985465326	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536985467239	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536985468150	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.weibo.com/login/
+1536985469186	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1536985471370	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.weibo.com/login/
+1536985471749	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 10648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2Fajaxlogin.php%3Fframelogin%3D1%26callback%3Dparent.sinaSSOController.feedBackUrlCallBack%26sudaref%3Dwww.weibo.com%26display%3D0%26retcode%3D20%26reason%3D%25C7%25EB%25CA%25E4%25C8%25EB%25D5%25FD%25C8%25B7%25B5%25C4%25B5%25C7%25C2%25BC%25C3%25FB&domain=.weibo.com&sudaref=https%3A%2F%2Flogin.sina.com.cn%2Fsso%2Flogin.php%3Fclient%3Dssologin.js%28v1.4.19%29&ua=php-sso_sdk_client-0.6.28&_rand=1536985449.492, line 170: : 
+[Child 11652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536985503428	Marionette	INFO	Stopped listening on port 64257
+[GPU 7700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536985562980	geckodriver	INFO	geckodriver 0.21.0
+1536985562988	geckodriver	INFO	Listening on 127.0.0.1:64498
+1536985566013	mozrunner::runner	INFO	Running command: "E:\\Tools\\网络工具\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yeeku\\AppData\\Local\\Temp\\rust_mozprofile.7f6GwakpfHbM"
+1536985569889	Marionette	INFO	Listening on port 64512
+1536985570362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536985570396	Marionette	DEBUG	[6442450945] Frame script loaded
+1536985570400	Marionette	DEBUG	[6442450945] Frame script registered
+1536985573420	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536985575008	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536985576683	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.weibo.com/login/
+1536985577801	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1536985582058	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.weibo.com/login/
+1536985582455	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=39ef33807c09c316, line 1: unreachable code after return statement
+JavaScript warning: https://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=39ef33807c09c316, line 1: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7500, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 11508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536985604043	Marionette	INFO	Stopped listening on port 64512
+[GPU 7736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536985606104	geckodriver	INFO	geckodriver 0.21.0
+1536985606113	geckodriver	INFO	Listening on 127.0.0.1:64729
+1536985609130	mozrunner::runner	INFO	Running command: "E:\\Tools\\网络工具\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yeeku\\AppData\\Local\\Temp\\rust_mozprofile.FkIGAGtWvPpp"
+1536985614764	Marionette	INFO	Listening on port 64741
+1536985615164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536985615195	Marionette	DEBUG	[6442450945] Frame script loaded
+1536985615200	Marionette	DEBUG	[6442450945] Frame script registered
+1536985618235	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536985620615	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536985621717	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.weibo.com/login/
+1536985622761	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1536985625746	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.weibo.com/login/
+1536985626166	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=39ef33807c09c316, line 1: unreachable code after return statement
+JavaScript warning: https://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=39ef33807c09c316, line 1: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1536985635094, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1536985635094, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1536985635094, line 172: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1536985635094, line 174: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1536985635094, line 198: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1536985635094, line 200: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1536985635094, line 207: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1536985635094, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1536985635094, line 174: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 12380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 13552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9036, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 1284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536985709289	Marionette	INFO	Stopped listening on port 64741
+[GPU 12588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537035401214	geckodriver	INFO	geckodriver 0.21.0
+1537035401238	geckodriver	INFO	Listening on 127.0.0.1:51901
+1537035404236	mozrunner::runner	INFO	Running command: "E:\\Tools\\网络工具\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yeeku\\AppData\\Local\\Temp\\rust_mozprofile.MHnwhLigz6Dr"
+1537035411241	Marionette	INFO	Listening on port 51909
+1537035411484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537035411518	Marionette	DEBUG	[6442450945] Frame script loaded
+1537035411524	Marionette	DEBUG	[6442450945] Frame script registered
+1537035414566	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537035416308	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537035417142	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.weibo.com/login/
+1537035418242	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537035435846	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.weibo.com/login/
+1537035436193	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript error: https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2Fajaxlogin.php%3Fframelogin%3D1%26callback%3Dparent.sinaSSOController.feedBackUrlCallBack%26sudaref%3Dwww.weibo.com%26display%3D0%26retcode%3D20%26reason%3D%25C7%25EB%25CA%25E4%25C8%25EB%25D5%25FD%25C8%25B7%25B5%25C4%25B5%25C7%25C2%25BC%25C3%25FB&domain=.weibo.com&sudaref=https%3A%2F%2Flogin.sina.com.cn%2Fsso%2Flogin.php%3Fclient%3Dssologin.js%28v1.4.19%29&ua=php-sso_sdk_client-0.6.28&_rand=1537035436.6577, line 170: : 
+[Parent 9160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9160, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1537035526893	Marionette	INFO	Stopped listening on port 51909
+[GPU 8908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537035746000	geckodriver	INFO	geckodriver 0.21.0
+1537035746008	geckodriver	INFO	Listening on 127.0.0.1:52076
+1537035749052	mozrunner::runner	INFO	Running command: "E:\\Tools\\网络工具\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yeeku\\AppData\\Local\\Temp\\rust_mozprofile.PMacjXUmhqW5"
+1537035753249	Marionette	INFO	Listening on port 52085
+1537035753369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537035753400	Marionette	DEBUG	[6442450945] Frame script loaded
+1537035753405	Marionette	DEBUG	[6442450945] Frame script registered
+1537035756438	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537035757926	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537035758687	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.weibo.com/login/
+1537035760099	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537035762242	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.weibo.com/login/
+1537035762649	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 9196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=39ef33807c09c316, line 1: unreachable code after return statement
+JavaScript warning: https://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=39ef33807c09c316, line 1: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035769980, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035769980, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035769980, line 172: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035769980, line 174: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035769980, line 198: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035769980, line 200: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035769980, line 207: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035769980, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035769980, line 174: unreachable code after return statement
+[Parent 9196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7984, Chrome_ChildThread] WARNING: pipe err1537035815843	Marionette	INFO	Listening on port 52230
+1537035815867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537035815903	Marionette	DEBUG	[6442450945] Frame script loaded
+1537035815910	Marionette	DEBUG	[6442450945] Frame script registered
+1537035818947	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537035820470	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537035821429	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.weibo.com/login/
+1537035822748	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537035827004	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.weibo.com/login/
+1537035827337	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1537035838425	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 8932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, 15370358941537035895597	Marionette	INFO	Stopped listening on port 52230
+[GPU 9560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc1537035896248	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537035898666	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.weibo.com/login/
+1537035899140	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=39ef33807c09c316, line 1: unreachable code after return statement
+JavaScript warning: https://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=39ef33807c09c316, line 1: unreachable code after return statement
+1537035910799	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035908165, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035908165, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035908165, line 172: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035908165, line 174: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035908165, line 198: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035908165, line 200: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035908165, line 207: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035908165, line 139: unreachable code after return statement
+JavaScript error: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035908165, line 197: TypeError: b.phizData[0] is undefined
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1537035908165, line 174: unreachable code after return statement
+[Child 8996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537044899804	Marionette	INFO	Stopped listening on port 52372

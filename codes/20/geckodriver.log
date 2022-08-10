@@ -1,0 +1,28 @@
+1537028918193	geckodriver	INFO	geckodriver 0.21.0
+1537028918211	geckodriver	INFO	Listening on 127.0.0.1:51177
+1537028921088	mozrunner::runner	INFO	Running command: "E:\\Tools\\网络工具\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yeeku\\AppData\\Local\\Temp\\rust_mozprofile.ntQrc6WcNoF5"
+1537028926295	Marionette	INFO	Listening on port 51185
+1537028926571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537028926614	Marionette	DEBUG	[6442450945] Frame script loaded
+1537028926625	Marionette	DEBUG	[6442450945] Frame script registered
+1537028929662	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537028931506	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537028932161	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.weibo.com/login/
+1537028934202	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1537028958884	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.weibo.com/login/
+[Child 9144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/com1537029206329	mozrunner::runner	IN[Child 8892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8892, Chrome_ChildThread] WARNING: pipe 1537029210935	Marionette	INFO	Listening on port 51301
+1537029211256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537029211313	Marionette	DEBUG	[6442450945] Frame script loaded
+1537029211318	Marionette	DEBUG	[6442450945] Frame script registered
+1537029214349	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537029215823	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537029233388	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.crazyit.org/forum.php
+1537029233396	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 6304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537029234825	Marionette	INFO	Stopped listening on port 51301
+[GPU 8960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, G:\publish\codes\17\17.2\app\app.py
+missing module named posix - imported by os, G:\publish\codes\17\17.2\app\app.py
+missing module named _posixsubprocess - imported by subprocess, G:\publish\codes\17\17.2\app\app.py
+missing module named readline - imported by cmd, code, pdb, G:\publish\codes\17\17.2\app\app.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, G:\publish\codes\17\17.2\app\app.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, G:\publish\codes\17\17.2\app\app.py
+missing module named _winreg - imported by platform, G:\publish\codes\17\17.2\app\app.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, G:\publish\codes\17\17.2\app\app.py
+missing module named 'java.lang' - imported by platform, G:\publish\codes\17\17.2\app\app.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, G:\publish\codes\17\17.2\app\app.py
+missing module named termios - imported by tty, G:\publish\codes\17\17.2\app\app.py, getpass
+missing module named grp - imported by shutil, tarfile, G:\publish\codes\17\17.2\app\app.py
+missing module named _dummy_threading - imported by dummy_threading, G:\publish\codes\17\17.2\app\app.py
+missing module named 'org.python' - imported by copy, G:\publish\codes\17\17.2\app\app.py, xml.sax
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, G:\publish\codes\17\17.2\app\app.py, netrc, getpass
+missing module named org - imported by pickle, G:\publish\codes\17\17.2\app\app.py
