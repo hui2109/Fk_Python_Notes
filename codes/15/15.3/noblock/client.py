@@ -29,7 +29,7 @@ def read(conn, mask):
 # 创建socket对象
 s = socket.socket()
 # 连接远程主机
-s.connect(('192.168.1.88', 30000))
+s.connect(('192.168.1.223', 30000))
 # 设置该socket是非阻塞的
 s.setblocking(False)
 # 使用sel为s的EVENT_READ事件注册read监听函数

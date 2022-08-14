@@ -49,7 +49,7 @@ def accept(sock, mask):
     # 使用sel为conn的EVENT_READ事件注册read监听函数
     sel.register(conn, selectors.EVENT_READ, read)    #②
 sock = socket.socket()
-sock.bind(('192.168.1.88', 30000))
+sock.bind(('192.168.1.223', 30000))
 sock.listen()
 # 设置该socket是非阻塞的
 sock.setblocking(False)
