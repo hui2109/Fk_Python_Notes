@@ -31,7 +31,7 @@ def accept(sock, mask):
 
 socket_list = []
 sock = socket.socket()
-sock.bind(('192.168.1.223', 30000))
+sock.bind(('10.68.0.238', 30000))
 sock.listen()
 sock.setblocking(False)
 sel.register(sock, selectors.EVENT_READ, accept)

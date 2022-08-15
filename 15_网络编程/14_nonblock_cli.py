@@ -16,7 +16,7 @@ def read(conn, mask):
 
 
 s = socket.socket()
-s.connect(('192.168.1.223', 30000))
+s.connect(('10.68.0.238', 30000))
 s.setblocking(False)
 sel.register(s, selectors.EVENT_READ, read)
 
