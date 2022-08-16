@@ -13,9 +13,13 @@
 #                                                                       #
 # <br>Date:                                                             #
 #########################################################################
+import ssl
 from urllib.request import *
 
-with urlopen('http://www.crazyit.org/index.php') as f:
+# 全局取消证书验证
+ssl._create_default_https_context = ssl._create_unverified_context
+
+with urlopen('https://fkjava.org/') as f:
     # 按字节读取数据
     data = f.read()
     # 将字节数据恢复成字符串
