@@ -18,7 +18,7 @@ import mysql.connector
 
 def query_db():
     # ①、连接数据库
-    conn = mysql.connector.connect(user='root', password='32147',
+    conn = mysql.connector.connect(user='root', password='182182aA',
         host='localhost', port='3306',
         database='python', use_unicode=True)
     # ②、获取游标

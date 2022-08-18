@@ -1,5 +1,5 @@
 MY_NAME = '疯狂软件教育中心'
-import pandas
+
 
 def sya_hi(name):
     """
