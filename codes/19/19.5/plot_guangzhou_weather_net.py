@@ -29,7 +29,7 @@ def get_html(city, year, month):  #①
         'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36')
     response = urlopen(request)
     # 获取服务器响应
-    return response.read().decode('gbk')
+    return response.read().decode('utf-8')
  
 # 定义3个list列表作为展示的数据
 dates, highs, lows = [], [], []
