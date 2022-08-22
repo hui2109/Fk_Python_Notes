@@ -12,7 +12,7 @@ class MyWindow(QWidget):
         self.initWidgets()
 
     def initWidgets(self):
-        x = QFontDialog.getFont(parent=self)
+        x = QFontDialog.getFont(self)
         font, y = x
         print(font.family(), font.pointSize())
 
