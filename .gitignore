@@ -137,3 +137,7 @@ dmypy.json
 /.idea/modules.xml
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/vcs.xml
+
+# 排除Firefox驱动文件和日志
+geckodriver.log
+geckodriver
