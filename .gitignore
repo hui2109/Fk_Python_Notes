@@ -141,3 +141,4 @@ dmypy.json
 # 排除Firefox驱动文件和日志
 geckodriver.log
 geckodriver
+geckodriver.exe
