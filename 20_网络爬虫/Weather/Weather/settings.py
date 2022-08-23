@@ -1,4 +1,4 @@
-# Scrapy settings for ZhipinSpider project
+# Scrapy settings for Weather project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,13 +7,13 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'ZhipinSpider'
+BOT_NAME = 'Weather'
 
-SPIDER_MODULES = ['ZhipinSpider.spiders']
-NEWSPIDER_MODULE = 'ZhipinSpider.spiders'
+SPIDER_MODULES = ['Weather.spiders']
+NEWSPIDER_MODULE = 'Weather.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-# USER_AGENT = 'ZhipinSpider (+http://www.yourdomain.com)'
+# USER_AGENT = 'Weather (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -37,7 +37,7 @@ ROBOTSTXT_OBEY = False
 
 # Override the default request headers:
 DEFAULT_REQUEST_HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:103.0) Gecko/20100101 Firefox/103.0',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
     # 'Accept-Language': 'en',
 }
@@ -45,13 +45,13 @@ DEFAULT_REQUEST_HEADERS = {
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 # SPIDER_MIDDLEWARES = {
-#    'ZhipinSpider.middlewares.ZhipinspiderSpiderMiddleware': 543,
+#    'Weather.middlewares.WeatherSpiderMiddleware': 543,
 # }
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 # DOWNLOADER_MIDDLEWARES = {
-#    'ZhipinSpider.middlewares.ZhipinspiderDownloaderMiddleware': 543,
+#    'Weather.middlewares.WeatherDownloaderMiddleware': 543,
 # }
 
 # Enable or disable extensions
@@ -63,7 +63,7 @@ DEFAULT_REQUEST_HEADERS = {
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'ZhipinSpider.pipelines.ZhipinspiderPipeline': 300,
+    'Weather.pipelines.WeatherPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -86,9 +86,5 @@ ITEM_PIPELINES = {
 # HTTPCACHE_DIR = 'httpcache'
 # HTTPCACHE_IGNORE_HTTP_CODES = []
 # HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
-
-# DOWNLOAD_HANDLERS = {
-#     'https': 'scrapy.core.downloader.handlers.http2.H2DownloadHandler',
-# }
 
 LOG_LEVEL = 'WARNING'
